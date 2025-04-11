@@ -1,2 +1,2 @@
-# KeywordVisualize
+# 키워드 기반 시각화 프로그램
 
