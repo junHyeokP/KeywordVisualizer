@@ -23,4 +23,6 @@ def keywordVisualize(filename) :
     #tm.visualize_barchart(counter, "다음 영화 리뷰 키워드 분석", "빈도수", "키워드")
     #tm.visualize_wordcloud(counter)
 
+    # hello world
+
     return counter
