@@ -21,3 +21,6 @@ Streamlit으로 동작하며, csv 파일을 업로드 하고 "분석 시작" 버
 **scikit-learn matplotlib** : 데이터 분석 시각화 파이썬 오픈소스 라이브러리, 워드 클라우드, 바 그래프를 사용
 
 **konlpy** : 한국어 텍스트 정보처리를 위한 NLP(Natural Language Processing) 파이썬 패키지
+
+# 시스템 흐름 설명
+
