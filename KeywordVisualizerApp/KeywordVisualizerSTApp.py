@@ -7,7 +7,6 @@ from keras.preprocessing.sequence import pad_sequences
 import mylib.STVisualizer as stv
 
 csv_file = st.sidebar.file_uploader('파일선택')
-/
 st_column = st.sidebar.text_input('데이터가 있는 컬럼명')
 st_btn = st.sidebar.button('데이터 파일 확인', (True))
 
